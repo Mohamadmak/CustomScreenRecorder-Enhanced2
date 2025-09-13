@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تسجيل الشاشة المخصص</string>
+    <string name="resolution_label">دقة التسجيل</string>
+    <string name="sidebar_label">الأشرطة الجانبية</string>
+    <string name="enable_sidebars">تفعيل الأشرطة الجانبية</string>
+    <string name="sidebar_color_label">لون الأشرطة الجانبية</string>
+    <string name="recording_info">معلومات التسجيل</string>
+    <string name="ready_to_record">جاهز للتسجيل</string>
+    <string name="start_recording">بدء التسجيل</string>
+    <string name="stop_recording">إيقاف التسجيل</string>
+    <string name="recording_in_progress">جاري التسجيل...</string>
+</resources>
+
